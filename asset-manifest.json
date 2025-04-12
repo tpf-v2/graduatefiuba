@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e5f075f5.css",
-    "main.js": "/static/js/main.0489ccc5.js",
+    "main.js": "/static/js/main.6704d38b.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.1462d225.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.9a28d9f3.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.a581fdbf.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/Logo-fiuba_big_face.png": "/static/media/Logo-fiuba_big_face.64fbb18d35ac2b531d43.png",
     "index.html": "/index.html",
     "main.e5f075f5.css.map": "/static/css/main.e5f075f5.css.map",
-    "main.0489ccc5.js.map": "/static/js/main.0489ccc5.js.map",
+    "main.6704d38b.js.map": "/static/js/main.6704d38b.js.map",
     "reactPlayerYouTube.1462d225.chunk.js.map": "/static/js/reactPlayerYouTube.1462d225.chunk.js.map",
     "reactPlayerSoundCloud.9a28d9f3.chunk.js.map": "/static/js/reactPlayerSoundCloud.9a28d9f3.chunk.js.map",
     "reactPlayerVimeo.a581fdbf.chunk.js.map": "/static/js/reactPlayerVimeo.a581fdbf.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.e5f075f5.css",
-    "static/js/main.0489ccc5.js"
+    "static/js/main.6704d38b.js"
   ]
 }
